@@ -8,6 +8,7 @@ Usage:
   from .sdlbfgs0 import SdLBFGS0
   del sdlbfgs
   del sdlbfgs0
+  
 3. Save \_\_init__.py and restart your python.
 4. Just use SdLBFGS as a normal optimizer in PyTorch.
 
