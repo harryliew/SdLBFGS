@@ -3,12 +3,12 @@ This project implements Stochastic damped LBFGS (SdLBFGS)[1] in PyTorch.
 
 Usage:
 1. Put sdlbfgs.py and sdlbfgs0.py in YOUR_PYTHON_PATH/site-packages/torch/optim.
-2. Open YOUR_PYTHON_PATH/site-packages/torch/optim/__init__.py add the following code:
+2. Open YOUR_PYTHON_PATH/site-packages/torch/optim/\_\_init__.py add the following code:
   from .sdlbfgs import SdLBFGS
   from .sdlbfgs0 import SdLBFGS0
   del sdlbfgs
   del sdlbfgs0
-3. Save __init__.py and restart your python.
+3. Save \_\_init__.py and restart your python.
 4. Just use SdLBFGS as a normal optimizer in PyTorch.
 
 For any problem, please contact Huidong Liu at h.d.liew@gmail.com
