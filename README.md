@@ -1,5 +1,5 @@
 # SdLBFGS
-This project implements Stochastic damped LBFGS [1] in PyTorch.
+This project implements Stochastic damped LBFGS (SdLBFGS)[1] in PyTorch.
 
 Usage:
 1. Put sdlbfgs.py and sdlbfgs0.py in YOUR_PYTHON_PATH/site-packages/torch/optim.
