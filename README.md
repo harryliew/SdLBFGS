@@ -14,4 +14,5 @@ Usage:
 For any problem, please contact Huidong Liu at h.d.liew@gmail.com
 
 References:
+
 [1] Wang, Xiao, et al. "Stochastic quasi-Newton methods for nonconvex stochastic optimization." SIAM Journal on Optimization 27.2 (2017): 927-956.
